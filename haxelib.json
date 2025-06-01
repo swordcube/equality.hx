@@ -1,0 +1,21 @@
+{
+    "name": "equality",
+    "url": "https://github.com/swordcube/equality",
+    "license": "MIT",
+    "tags": [
+        "equals",
+        "math",
+        "equality",
+        "coolmathgames"
+    ],
+    "description": "An easy to use library to compare two values for their equality.",
+    "version": "1.0.0",
+    "classPath": "src",
+    "releasenote": "First version of equality!",
+    "contributors": [
+        "swordcube"
+    ],
+    "dependencies": {
+        "subtract": ""
+    }
+}
