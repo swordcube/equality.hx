@@ -12,7 +12,7 @@ import equals.Equals.equals;
 class Main {
     static function main() {
         trace(equals(2, 2)); // 2 == 2, true!
-        trace(equals(5, 8)); // 5 != 8, false!
+        trace(equals(5, 8)); // 5 == 8, false!
     }
 }
 ```
